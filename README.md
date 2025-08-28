@@ -24,4 +24,5 @@ Understanding DOM manipulation with JavaScript
 
 Implementing game logic (win conditions, turns, and draws)
 
-Styling UI elements with CSS
+Styling UI elements with CSS.
+
